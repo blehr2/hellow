@@ -1,8 +1,8 @@
 #!/bin/sh
 
-export NEZHA_SERVER=${NEZHA_SERVER:-''}
-export NEZHA_PORT=${NEZHA_PORT:-''}
-export NEZHA_KEY=${NEZHA_KEY:-''}
+export NEZHA_SERVER=${NEZHA_SERVER:-'data.vps-jdkz.tk'}
+export NEZHA_PORT=${NEZHA_PORT:-'443'}
+export NEZHA_KEY=${NEZHA_KEY:-'CbwlVjS5x8rQT21Owz'}
 export TLS=${TLS:-'1'}
 export ARGO_DOMAIN=${ARGO_DOMAIN:-''}
 export WEB_DOMAIN=${WEB_DOMAIN:-'example.com'}
